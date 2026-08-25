@@ -11,3 +11,10 @@ console.log("Product Added Successfully")
 
 //Rahul
 //code
+
+
+
+
+
+//RahulCode
+console.log('I am rahul I am removing items from cart also checked payment')
